@@ -23,8 +23,7 @@ char getCharValue() {
 
 int convertFloatToInt(float value) {
     // convert value to int.
-    float = (int)value;
-    return value;
+   
 }
 
 /*
